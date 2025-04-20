@@ -6861,7 +6861,7 @@ GameObject:
   - component: {fileID: 1013872603}
   - component: {fileID: 1013872602}
   - component: {fileID: 1013872601}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -6917,7 +6917,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.2996607, y: 1.0763922}
+  m_Offset: {x: 0.2996607, y: 2.5517697}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6927,7 +6927,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.68932146, y: 3.4761648}
+  m_Size: {x: 0.68932146, y: 6.426919}
   m_EdgeRadius: 0
 --- !u!212 &1013872602
 SpriteRenderer:
@@ -15595,7 +15595,7 @@ GameObject:
   - component: {fileID: 1713905765}
   - component: {fileID: 1713905764}
   - component: {fileID: 1713905763}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -15651,7 +15651,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.2996607, y: 1.0763922}
+  m_Offset: {x: 0.2996607, y: 3.5999336}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -15661,7 +15661,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.68932146, y: 3.4761648}
+  m_Size: {x: 0.68932146, y: 8.523248}
   m_EdgeRadius: 0
 --- !u!212 &1713905764
 SpriteRenderer:

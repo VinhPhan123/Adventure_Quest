@@ -13856,7 +13856,7 @@ GameObject:
   - component: {fileID: 1600703412}
   - component: {fileID: 1600703414}
   - component: {fileID: 1600703415}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -14010,7 +14010,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.2996607, y: 1.0763922}
+  m_Offset: {x: 0.2996607, y: 7.2228403}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -14020,7 +14020,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.68932146, y: 3.4761648}
+  m_Size: {x: 0.68932146, y: 15.769062}
   m_EdgeRadius: 0
 --- !u!1 &1616688110
 GameObject:
@@ -19310,10 +19310,25 @@ PrefabInstance:
       propertyPath: previousRoom
       value: 
       objectReference: {fileID: 876067028}
+    - target: {fileID: 5559293921403934514, guid: 07f1265929cf5464e86a115fb9ea7c64,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 15.561492
+      objectReference: {fileID: 0}
+    - target: {fileID: 5559293921403934514, guid: 07f1265929cf5464e86a115fb9ea7c64,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 7.1190553
+      objectReference: {fileID: 0}
     - target: {fileID: 8015228951052285135, guid: 07f1265929cf5464e86a115fb9ea7c64,
         type: 3}
       propertyPath: m_Name
       value: Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 8015228951052285135, guid: 07f1265929cf5464e86a115fb9ea7c64,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
